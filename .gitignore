@@ -1,6 +1,6 @@
 bin/
 include/
-lib/
-lib/
+lib/python-wheels/
+lib/python3.5/
 local/
 .idea
