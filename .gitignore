@@ -1,8 +1,6 @@
 .vscode
-
-Include
-/
-Lib
-/
-Scripts
-/
+Include/
+Lib/
+Scripts/
+bin/
+lib/
