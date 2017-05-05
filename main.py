@@ -10,7 +10,7 @@ app = Flask(__name__)
 def rewrite_index():
     from app import server
     serverName = server.getServerName()
-
+    user = 'davpd'#it nothing
     return render_template('index.tpl', server=serverName)
 
 if __name__ == '__main__':
